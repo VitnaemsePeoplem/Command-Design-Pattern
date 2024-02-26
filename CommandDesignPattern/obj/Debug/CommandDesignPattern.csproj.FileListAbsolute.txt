@@ -1,0 +1,7 @@
+C:\Users\filip\source\repos\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe.config
+C:\Users\filip\source\repos\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe
+C:\Users\filip\source\repos\CommandDesignPattern\bin\Debug\CommandDesignPattern.pdb
+C:\Users\filip\source\repos\CommandDesignPattern\obj\Debug\CommandDesignPattern.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\CommandDesignPattern\obj\Debug\CommandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\CommandDesignPattern\obj\Debug\CommandDesignPattern.exe
+C:\Users\filip\source\repos\CommandDesignPattern\obj\Debug\CommandDesignPattern.pdb
